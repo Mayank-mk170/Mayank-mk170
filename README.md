@@ -1,4 +1,9 @@
-
+## 💫 About Me:
+👋 Hi, I’m Mayank Kumar
+👀 I’m interested in Java Developer
+🌱 I’m currently learning new technology to develope my skills
+📫 How to reach me : themayankkumar8@gmail.com or +91-7870686061
+😄 Pronouns: he/his
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-kumar24) 
 
